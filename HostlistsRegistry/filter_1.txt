@@ -1,0 +1,12 @@
+!
+! Title: WEB email Blocklist
+! Description: Blocks web email - mail, yandex, gmail....
+! Version: 1.0.0.0
+! Last modified: 2025-03-16
+!
+||account.mail.ru^
+||mail.google.com^
+||mail.yandex.ru^
+||passport.yandex.ru^
+||outlook.live.com^
+||mail.rambler.ru^
