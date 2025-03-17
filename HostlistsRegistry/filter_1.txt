@@ -7,6 +7,5 @@
 ||account.mail.ru^
 ||mail.google.com^
 ||mail.yandex.ru^
-||passport.yandex.ru^
 ||outlook.live.com^
 ||mail.rambler.ru^
