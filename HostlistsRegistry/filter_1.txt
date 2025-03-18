@@ -9,3 +9,4 @@
 ||mail.yandex.ru^
 ||outlook.live.com^
 ||mail.rambler.ru^
+||mail.yahoo.com^
