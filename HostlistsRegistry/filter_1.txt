@@ -10,6 +10,6 @@
 ||outlook.live.com^
 ||mail.rambler.ru^
 ||mail.yahoo.com^
-!!outlook.office365.com^
-!!outlook.office.com^
-!!e.mail.ru^
+||outlook.office365.com^
+||outlook.office.com^
+||e.mail.ru^
