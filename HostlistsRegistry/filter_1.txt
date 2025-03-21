@@ -10,5 +10,5 @@
 ||outlook.live.com^
 ||mail.rambler.ru^
 ||mail.yahoo.com^
-!!outlook.office365.com
-!!outlook.office.com
+!!outlook.office365.com^
+!!outlook.office.com^
