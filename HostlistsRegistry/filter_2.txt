@@ -1,5 +1,5 @@
 !
-! Title: Applications / Remote Access Blocklist
+! Title: Applications / Remote Access Blocklist 
 ! Description: Blocks Remote Access - anydesk, ammyy, rustdesk
 ! Version: 1.0.0.0
 ! Last modified: 2025-04-07
