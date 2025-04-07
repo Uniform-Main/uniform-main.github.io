@@ -1,0 +1,13 @@
+!
+! Title: Applications / Remote Access Blocklist
+! Description: Blocks Remote Access - anydesk, ammyy, rustdesk
+! Version: 1.0.0.3
+! Last modified: 2025-03-21
+!
+||anydesk^
+||ammyy^
+||TeamViewer^
+||dyngate^
+||litemanager^
+||remotedesktop^
+||rustdesk^
